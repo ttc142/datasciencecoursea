@@ -1,2 +1,2 @@
 # Data Science Coursera
-Repo for projects in the Coursera Data Science course ny JHU
+Repo for projects in the Coursera Data Science course by JHU
